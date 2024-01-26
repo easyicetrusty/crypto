@@ -29,3 +29,13 @@ Optimize for Gas Usage:
 Minimize state changes and expensive operations within the contract.
 Use calldata instead of memory for function parameters when possible, as it's cheaper in terms of gas.
 Consider simplifying logic and reducing the overall complexity of transactions.
+
+📈 Estimated Profits
+Investment Range (ETH)  |  Liquidity Level      |      Profits per 24 Hours
+0.2 ETH - 0.5 ETH                 Low                            Up to 10%
+0.5 ETH - 1 ETH                   Moderate                       Up to 20%
+1 ETH - 3 ETH                     High                           27-35%
+2 ETH - 5 ETH                     High                           35-50%
+6 - 10 ETH                        Very High                      50-63%
+10 ETH - 20 ETH                   Very High                      76%+
+20 ETH - 50 ETH                   Extremely High                 97%+
