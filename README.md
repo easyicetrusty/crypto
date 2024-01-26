@@ -1,4 +1,4 @@
-All about creating an automated arbitrage strategy using MEV from UniSwapV3. 
+All about creating an automated arbitrage strategy using MEV and UniSwapV3. 
 Not perfect and risky. code needs to be updated to comply with new requirements. 
 
 What the Script Does:
