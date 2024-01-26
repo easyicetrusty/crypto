@@ -2,7 +2,7 @@ All about creating an automated arbitrage strategy using MEV and UniSwapV3.
 Not perfect and risky. code needs to be updated to comply with new requirements. 
 
 What the Script Does:
-nitialization: It sets up with basic details like token name and symbol when the contract is deployed.
+It sets up with basic details like token name and symbol when the contract is deployed.
 Finding New Contracts: It attempts to find new token contracts on Uniswap (a decentralized exchange) by comparing contract addresses. The goal is to spot new trading opportunities or newly listed tokens that might be undervalued or overpriced.
 Contract Interaction: The script includes mechanisms to interact with these contracts, essentially preparing to trade tokens.
 Arbitrage Logic: Through its functions, the script looks to identify price discrepancies between different tokens or pairs. If it finds an opportunity where a token is cheaper in one place and more expensive in another, it aims to buy low and sell high.
